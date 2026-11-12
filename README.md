@@ -1,14 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0d,100:ff2a1f&height=160&section=header&text=Samuell%20Moura&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20pista.%20C%C3%B3digo%20de%20produ%C3%A7%C3%A3o.&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0b0d,100:ff2a1f&height=160&section=header&text=Samuell%20Moura&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20que%20enxerga.&descAlignY=60&descSize=16" width="100%"/>
 
 ### Oi! 👋 Eu sou o Samuell
 
 Estudante de **Engenharia de Computação na UFU**, vindo de 5 anos de Engenharia Mecânica no CEFET-MG.
-Gosto de problemas que ficam entre o físico e o digital: dados de carro de corrida, simulação e realidade aumentada.
+Gosto de problemas que ficam entre o físico e o digital: visão computacional, dados e realidade aumentada.
 
-- 🏎️ 4 anos no **Fórmula Cefast** (freio e ergonomia) — **2x campeão nacional**
 - 🔧 Ex-estagiário de Análise de Projetos na **Brembo**
 - 🥽 Pesquisa em Realidade Virtual e Aumentada no **GRVA/UFU** (subestação da Cemig em RA para treinamento)
-- 🔭 Agora: [**FSAE Telemetry**](https://github.com/SaMoCaSa00/fsae-telemetry), dashboard de telemetria para Fórmula SAE
 - 🌱 Aprendendo: análise de dados, SQL e boas práticas de engenharia de software
 
 <p>
