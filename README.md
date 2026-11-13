@@ -5,6 +5,7 @@
 Estudante de **Engenharia de Computação na UFU**, vindo de 5 anos de Engenharia Mecânica no CEFET-MG.
 Gosto de problemas que ficam entre o físico e o digital: visão computacional, dados e realidade aumentada.
 
+- 💼 Estagiário de Dados e IA na **Hub Club**
 - 🔧 Ex-estagiário de Análise de Projetos na **Brembo**
 - 🥽 Pesquisa em Realidade Virtual e Aumentada no **GRVA/UFU** (subestação da Cemig em RA para treinamento)
 - 🌱 Aprendendo: análise de dados, SQL e boas práticas de engenharia de software
@@ -14,11 +15,17 @@ Gosto de problemas que ficam entre o físico e o digital: visão computacional, 
   <a href="mailto:samuellcarreiro2000@gmail.com"><img src="https://img.shields.io/badge/E--mail-FF2A1F?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+### 🚀 Projeto em destaque
+
+**[EPI Vision](https://github.com/SaMoCaSa00/epi-vision)**: detector de EPI (capacete e colete) com **YOLO11**, que diz *quem* está irregular, rastreia pessoas em vídeo e roda em ONNX na CPU. [**Abrir o app →**](https://epi-vision.streamlit.app)
+
+<a href="https://github.com/SaMoCaSa00/epi-vision"><img src="https://raw.githubusercontent.com/SaMoCaSa00/epi-vision/main/docs/demo.jpg" width="520"/></a>
+
 ### 🛠️ Tecnologias
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,haskell,git,github,linux,vscode&theme=dark" />
 
-`pandas` · `NumPy` · `Plotly` · `Streamlit` · `SQL` · `SolidWorks` · `AutoCAD` · `LaTeX`
+`YOLO` · `OpenCV` · `ONNX` · `pandas` · `NumPy` · `Plotly` · `Streamlit` · `SQL` · `SolidWorks` · `AutoCAD` · `LaTeX`
 
 ### 📊 Estatísticas
 
